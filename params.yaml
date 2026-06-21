@@ -1,0 +1,23 @@
+paths:
+  raw_data: "data/raw/water_potability.csv"
+  processed_data: "data/processed/water_potability.csv"
+  model: "models/model.pk"
+  test_data: "data/test/test_data.csv"
+  test_set: "data/test/test-set"
+  train_set: "data/train/train-set"
+  confusion_matrix: report/visual/confusion_matrix.jpg
+  roc_curve: report/visual/rocauc_curve.jpg
+  fea_impt: report/visual/feature_importance.jpg
+  metrics: report/metrics/metrics.json
+
+loglevel: INFO
+
+train:
+  seeds: 234
+  test_size: 0.2
+  imputer: "median"
+  n_split: 10
+
+
+
+
