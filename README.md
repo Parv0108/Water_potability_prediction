@@ -67,23 +67,3 @@ dvc repro
 > Feature Importance
 
 <img src="report\visual\feature_importance.jpg" width="400" height="400">
-
-
-
-## 👥 Contributors
-
-- [Isaac Ayobami Ogunjinmi](https://github.com/akinyosoyeisaac)
-- [Emmanuel Adu Saah](https://github.com/kweku-annan)
-- [Erica Konadu Antwi](https://github.com/ericakonadu)
-- [Mariam](https://github.com/mariam-cl)
-- [Tcharrison](https://github.com/tcharrisson)
-- Mariam
-- [Selasi Ayittah Randy](https://github.com/Selasi3)
-
-## 📖 Further reading
-
--  <a href="references\metadata.md"> Metadata </a>
--  [project repro](https://github.com/akinyosoyeisaac/Water_Portability_Prediction)
-- [project website(fastapi)](https://water-potability-pred-01.herokuapp.com/docs#/default/prediction_predict_post)
-- [project website(streamlit)](https://akinyosoyeisaac-water-portabili-deploymentwater-pota-app-shb41p.streamlitapp.com/)
-
