@@ -48,11 +48,11 @@ Access to safe drinking water is a global public health challenge. This project 
 
 | Metric | Score |
 |---|---|
-| Accuracy | ~0.75+ |
-| Precision | — |
-| Recall | — |
-| F1 Score | — |
-| ROC-AUC | **0.9029** (CV) |
+| Accuracy | 0.7942 |
+| Precision | 0.7410 |
+| Recall | 0.7266 |
+| F1 Score | 0.7337 |
+| ROC-AUC | **0.8769** (CV) |
 
 > Best hyperparameters: `n_estimators=400`, `max_depth=8`, `learning_rate=0.05`, `subsample=0.8`
 
