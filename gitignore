@@ -1,0 +1,28 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Saved model (large binary — optional to exclude)
+# *.pkl
+
+# Data files (download from Kaggle instead)
+*.csv
