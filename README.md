@@ -62,7 +62,7 @@ Access to safe drinking water is a global public health challenge. This project 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/water-potability.git
+git clone https://github.com/Parv0108/water-potability.git
 cd water-potability
 ```
 
@@ -108,4 +108,4 @@ threshold = bundle['threshold']
 
 ## 👤 Author
 
-Made by [Your Name](https://github.com/YOUR-USERNAME)
+Made by [Parv](https://github.com/Parv0108)
