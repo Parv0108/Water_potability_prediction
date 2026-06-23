@@ -57,7 +57,7 @@ Access to safe drinking water is a global public health challenge. This project 
 > Best hyperparameters: `n_estimators=400`, `max_depth=8`, `learning_rate=0.05`, `subsample=0.8`
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ### ROC Curve
 ![ROC Curve](images/roc_curve.png.png)
