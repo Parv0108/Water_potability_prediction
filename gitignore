@@ -21,8 +21,5 @@ env/
 .DS_Store
 Thumbs.db
 
-# Saved model (large binary — optional to exclude)
-# *.pkl
-
 # Data files (download from Kaggle instead)
 *.csv
